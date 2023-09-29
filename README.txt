@@ -1,0 +1,5 @@
+Project title
+
+Author: Enoch Nana Edusah
+
+This project is about Boarder Gateway Protocol. The only extenal or exterior routing protocol among other dynamic protocols in networking. It is the protocol that the internet uses to share route information between organizations. BGP is used to share routing infromations between different autnomous systems or organizations. internal BGP or iBGP is the peering and sharing of bgp learned route among peers while external BGP or eBGP is the peering between organizations or different autonomous systems. The algrithm BGP uses path vector algorithm, it also uses different polices and peferences to determin or selct the best route. these meteics include  weight, local preference, AS or autonomous path distance and others. This is just a summary of border gateway protocol. The lab below describes or exibit bgp route sharing and the design of bgp network. The internal nades are running OSPF which is a link sate algorithm.
